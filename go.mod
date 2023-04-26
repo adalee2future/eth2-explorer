@@ -1,4 +1,4 @@
-module eth2-exporter
+module github.com/adalee2future/eth2-explorer
 
 go 1.18
 
